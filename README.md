@@ -14,7 +14,7 @@ How to deploy to your local machine:
 3. Database configuration info is in include/connection.php
 4. If you can't connect to aws database, usually it means your devices is not in the RDS secure group. Please send your public ip address to me. I'll add your into it.
 
-5. To be continued 
+5. To be continued ...
 
 Steven Liu
 10/07/2014
